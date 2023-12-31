@@ -60,12 +60,12 @@ Variety within 100 annotated tables from 78 adhesive datasheets:
 
 
 ## Replicabilty and reproducibilty 
-Create a conda environment from the yml file and activate it as follows
+ASAP
 ```
 ```
 
 ## Model Training
-The code trains models for 2 different sets of table extraction tasks:
+ASAP
 
 
 ## Citing
