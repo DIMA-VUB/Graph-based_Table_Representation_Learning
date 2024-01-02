@@ -59,7 +59,7 @@ In short, we conceptualize intelligent information extraction from tables (or se
 
 The adhesive dataset  folder is structured as follows:
 - ["The collected PDFs document about ahesive datasheets"](https://github.com/DIMA-VUB/Graph-based_Table_Representation_Learning/tree/d0cd88e5c841baf8dc97076fa94ef5c4f82dccd2/adhesive_dataset/AdhesiveMaterialsPDF). 
-- ["the per table annotation with tht format describe below"](https://github.com/DIMA-VUB/Graph-based_Table_Representation_Learning/tree/d0cd88e5c841baf8dc97076fa94ef5c4f82dccd2/adhesive_dataset/tableDataset)
+- ["the per table annotation with the format describe below"](https://github.com/DIMA-VUB/Graph-based_Table_Representation_Learning/tree/d0cd88e5c841baf8dc97076fa94ef5c4f82dccd2/adhesive_dataset/tableDataset)
 ```json
 {
     "id-table": "0b6979f0-3ffe-431c-83c0-4b3ef6010d31", /*A unique ID assigned to each table, used as the filename. */
