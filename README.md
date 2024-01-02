@@ -3,10 +3,16 @@ The objective of the proposed Table Representation Learning is to develop method
 
 __We are in the process of updating the functions to align with the revised terminology/concept used in the paper. Consequently, we will be gradually updating this repository with our source code and documentation.__
 
-
+<!-- 
 <div style="text-align: center">
     <img src="https://github.com/DIMA-VUB/Graph-based_Table_Representation_Learning/blob/main/adhesive_dataset/design_34.jpg?raw=true">
 </div>
+-->
+
+<div style="text-align: center">
+    <img src="https://github.com/DIMA-VUB/Graph-based_Table_Representation_Learning/blob/main/adhesive_dataset/key_contributions_3.jpg?raw=true">
+</div>
+
 
 
 ## News
