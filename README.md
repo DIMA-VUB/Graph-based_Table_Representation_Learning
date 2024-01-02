@@ -15,10 +15,9 @@ __We are in the process of updating the functions to align with the revised term
 
 # Dataset
 
-Existing table datasets are predominantly compiled towards table structure recognition, resulting in a lack of datasets that can be employed for our for table representation learning where the availability of per-entry semantic labeling is vital.
+Existing table datasets are predominantly compiled towards table structure recognition, resulting in a lack of datasets that can be employed for our for **Table Representation Learning** where the availability of per-entry semantic labeling is vital.
 
-We therefore had to create a new dataset which could emerge from a joint collaboration between our research group and an industrial partner, Flanders Make, who targets an intelligent information extraction from industrial documents. They realized that current methods fall short in realizing their goal. Their documents typically feature complex table layouts and are content-rich using specialized terms and symbols, each carrying a domain-specific meaning. As domain experts, Flanders Make helped us to create the ground truth for the semantic labels of table entries in our dataset. 
-Variety within 100 annotated tables from 78 adhesive datasheets:
+We therefore had to create a new dataset which could emerge from a joint collaboration between our research group and an industrial partner, Flanders Make, who targets an intelligent information extraction from industrial documents. They realized that current methods fall short in realizing their goal. Their documents typically feature complex table layouts and are content-rich using specialized terms and symbols, each carrying a domain-specific meaning. As domain experts, Flanders Make helped us to create the ground truth for the table semantic label (TSL) in our dataset. Variety within 100 annotated tables from 78 adhesive datasheets is described below:
 
 <table>
     <tr>
