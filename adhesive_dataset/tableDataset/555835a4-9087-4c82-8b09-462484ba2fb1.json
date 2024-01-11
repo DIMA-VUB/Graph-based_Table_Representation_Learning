@@ -1,1 +1,369 @@
-"{\n    \"id-table\": \"555835a4-9087-4c82-8b09-462484ba2fb1\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(439.1, 1601.2, 1119.9, 386.7)\",\n    \"PDF-name\": \"TDS_3M DP190 Gray\",\n    \"Page-number\": \"4\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(737.2, 1627.8, 389.4, 61.7)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1137.4, 1622.4, 370.6, 67.1)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(747.9, 1692.5, 378.7, 40.3)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1134.7, 1697.9, 376, 34.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    15\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(468.6, 1692.5, 268.6, 37.6)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    2\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(471.3, 1740.8, 274, 32.2)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    6\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(745.3, 1735.5, 384, 40.2)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    5\n                ],\n                \"right\": [\n                    15\n                ],\n                \"up\": [\n                    2\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(466, 1770.4, 279.3, 45.6)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    8\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(739.9, 1783.8, 389.4, 32.2)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    7\n                ],\n                \"right\": [\n                    16\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(487.4, 1818.7, 260.5, 32.2)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    10\n                ],\n                \"up\": [\n                    7\n                ],\n                \"down\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(753.3, 1821.4, 373.3, 34.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    9\n                ],\n                \"right\": [\n                    17\n                ],\n                \"up\": [\n                    8\n                ],\n                \"down\": [\n                    12\n                ]\n            }\n        },\n        {\n            \"id-entry\": 11,\n            \"entry-rect\": \"(468.6, 1861.7, 279.3, 42.9)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    12\n                ],\n                \"up\": [\n                    9\n                ],\n                \"down\": [\n                    13\n                ]\n            }\n        },\n        {\n            \"id-entry\": 12,\n            \"entry-rect\": \"(756, 1859, 370.6, 42.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    11\n                ],\n                \"right\": [\n                    18\n                ],\n                \"up\": [\n                    10\n                ],\n                \"down\": [\n                    14\n                ]\n            }\n        },\n        {\n            \"id-entry\": 13,\n            \"entry-rect\": \"(479.4, 1907.3, 268.5, 37.6)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    14\n                ],\n                \"up\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 14,\n            \"entry-rect\": \"(747.9, 1904.6, 378.7, 34.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    13\n                ],\n                \"right\": [\n                    19\n                ],\n                \"up\": [\n                    12\n                ]\n            }\n        },\n        {\n            \"id-entry\": 15,\n            \"entry-rect\": \"(1126.6, 1740.8, 384.1, 32.2)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    6\n                ],\n                \"up\": [\n                    3\n                ],\n                \"down\": [\n                    16\n                ]\n            }\n        },\n        {\n            \"id-entry\": 16,\n            \"entry-rect\": \"(1113.2, 1775.7, 392.1, 43)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    8\n                ],\n                \"up\": [\n                    15\n                ],\n                \"down\": [\n                    17\n                ]\n            }\n        },\n        {\n            \"id-entry\": 17,\n            \"entry-rect\": \"(1126.6, 1826.7, 381.4, 32.3)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    10\n                ],\n                \"up\": [\n                    16\n                ],\n                \"down\": [\n                    18\n                ]\n            }\n        },\n        {\n            \"id-entry\": 18,\n            \"entry-rect\": \"(1132, 1864.3, 370.6, 37.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    12\n                ],\n                \"up\": [\n                    17\n                ],\n                \"down\": [\n                    19\n                ]\n            }\n        },\n        {\n            \"id-entry\": 19,\n            \"entry-rect\": \"(1129.3, 1901.9, 376, 34.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    14\n                ],\n                \"up\": [\n                    18\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "555835a4-9087-4c82-8b09-462484ba2fb1",
+    "language": "ENGLISH",
+    "table-rect": "(439.1, 1601.2, 1119.9, 386.7)",
+    "PDF-name": "TDS_3M DP190 Gray",
+    "Page-number": "4",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(737.2, 1627.8, 389.4, 61.7)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "Scotch-weld Epoxy Adhesive DP190 Translucent",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1137.4, 1622.4, 370.6, 67.1)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "Scotch-weld Epoxy Adhesive DP190 Gray",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(747.9, 1692.5, 378.7, 40.3)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "right": [
+                    3
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1134.7, 1697.9, 376, 34.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    15
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(468.6, 1692.5, 268.6, 37.6)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Acetone",
+            "Relationships": {
+                "right": [
+                    2
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(471.3, 1740.8, 274, 32.2)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": " Isopropyl Alcohol",
+            "Relationships": {
+                "right": [
+                    6
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(745.3, 1735.5, 384, 40.2)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    5
+                ],
+                "right": [
+                    15
+                ],
+                "up": [
+                    2
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(466, 1770.4, 279.3, 45.6)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Freon TF",
+            "Relationships": {
+                "right": [
+                    8
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(739.9, 1783.8, 389.4, 32.2)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    7
+                ],
+                "right": [
+                    16
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(487.4, 1818.7, 260.5, 32.2)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Freon TMC",
+            "Relationships": {
+                "right": [
+                    10
+                ],
+                "up": [
+                    7
+                ],
+                "down": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(753.3, 1821.4, 373.3, 34.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/B",
+            "Relationships": {
+                "left": [
+                    9
+                ],
+                "right": [
+                    17
+                ],
+                "up": [
+                    8
+                ],
+                "down": [
+                    12
+                ]
+            }
+        },
+        {
+            "id-entry": 11,
+            "entry-rect": "(468.6, 1861.7, 279.3, 42.9)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "1,1,1 - Trichlorethane",
+            "Relationships": {
+                "right": [
+                    12
+                ],
+                "up": [
+                    9
+                ],
+                "down": [
+                    13
+                ]
+            }
+        },
+        {
+            "id-entry": 12,
+            "entry-rect": "(756, 1859, 370.6, 42.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    11
+                ],
+                "right": [
+                    18
+                ],
+                "up": [
+                    10
+                ],
+                "down": [
+                    14
+                ]
+            }
+        },
+        {
+            "id-entry": 13,
+            "entry-rect": "(479.4, 1907.3, 268.5, 37.6)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "RMA Flux",
+            "Relationships": {
+                "right": [
+                    14
+                ],
+                "up": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 14,
+            "entry-rect": "(747.9, 1904.6, 378.7, 34.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    13
+                ],
+                "right": [
+                    19
+                ],
+                "up": [
+                    12
+                ]
+            }
+        },
+        {
+            "id-entry": 15,
+            "entry-rect": "(1126.6, 1740.8, 384.1, 32.2)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    6
+                ],
+                "up": [
+                    3
+                ],
+                "down": [
+                    16
+                ]
+            }
+        },
+        {
+            "id-entry": 16,
+            "entry-rect": "(1113.2, 1775.7, 392.1, 43)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    8
+                ],
+                "up": [
+                    15
+                ],
+                "down": [
+                    17
+                ]
+            }
+        },
+        {
+            "id-entry": 17,
+            "entry-rect": "(1126.6, 1826.7, 381.4, 32.3)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    10
+                ],
+                "up": [
+                    16
+                ],
+                "down": [
+                    18
+                ]
+            }
+        },
+        {
+            "id-entry": 18,
+            "entry-rect": "(1132, 1864.3, 370.6, 37.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    12
+                ],
+                "up": [
+                    17
+                ],
+                "down": [
+                    19
+                ]
+            }
+        },
+        {
+            "id-entry": 19,
+            "entry-rect": "(1129.3, 1901.9, 376, 34.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "A/A",
+            "Relationships": {
+                "left": [
+                    14
+                ],
+                "up": [
+                    18
+                ]
+            }
+        }
+    ]
+}

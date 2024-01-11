@@ -1,1 +1,48 @@
-"{\n    \"id-table\": \"6b63cd65-0abb-453c-9ea3-b93a92f8aea0\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(142.4, 149.8, 1463.3, 86.2)\",\n    \"PDF-name\": \"TDS Axson Adekit A 280\",\n    \"Page-number\": \"2\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(155.5, 173.3, 433.7, 47)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1208.5, 181.1, 133.3, 41.8)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"right\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(1349.6, 178.5, 141.1, 44.4)\",\n            \"table-semantic-label\": \"VALUE_METHOD\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    1\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "6b63cd65-0abb-453c-9ea3-b93a92f8aea0",
+    "language": "ENGLISH",
+    "table-rect": "(142.4, 149.8, 1463.3, 86.2)",
+    "PDF-name": "TDS Axson Adekit A 280",
+    "Page-number": "2",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(155.5, 173.3, 433.7, 47)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Working temperature (2) (\u00b0C)",
+            "Relationships": {
+                "right": [
+                    1
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1208.5, 181.1, 133.3, 41.8)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "-40 to 130",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "right": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(1349.6, 178.5, 141.1, 44.4)",
+            "table-semantic-label": "VALUE_METHOD",
+            "table-header": "No",
+            "content": "LT-006-B",
+            "Relationships": {
+                "left": [
+                    1
+                ]
+            }
+        }
+    ]
+}

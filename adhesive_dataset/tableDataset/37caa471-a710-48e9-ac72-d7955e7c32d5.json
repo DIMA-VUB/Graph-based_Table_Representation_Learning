@@ -1,1 +1,105 @@
-"{\n    \"id-table\": \"37caa471-a710-48e9-ac72-d7955e7c32d5\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(413.5, 1661.6, 1157.5, 217.5)\",\n    \"PDF-name\": \"TDS_3M DP105\",\n    \"Page-number\": \"4\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(482.1, 1691.9, 633.8, 43)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1137.4, 1702.6, 381.3, 37.6)\",\n            \"table-semantic-label\": \"LABEL_CONDITION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(522.4, 1742.9, 563.9, 40.3)\",\n            \"table-semantic-label\": \"LABEL_CONDITION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1137.4, 1751, 373.3, 32.2)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(517, 1796.6, 564, 45.7)\",\n            \"table-semantic-label\": \"LABEL_CONDITION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(1132, 1793.9, 381.3, 40.3)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"up\": [\n                    3\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "37caa471-a710-48e9-ac72-d7955e7c32d5",
+    "language": "ENGLISH",
+    "table-rect": "(413.5, 1661.6, 1157.5, 217.5)",
+    "PDF-name": "TDS_3M DP105",
+    "Page-number": "4",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(482.1, 1691.9, 633.8, 43)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Exotherm\u2019\u00ae",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1137.4, 1702.6, 381.3, 37.6)",
+            "table-semantic-label": "LABEL_CONDITION",
+            "table-header": "Yes",
+            "content": "Max. Temp/Time to Reach",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(522.4, 1742.9, 563.9, 40.3)",
+            "table-semantic-label": "LABEL_CONDITION",
+            "table-header": "Yes",
+            "content": "2 gram mass",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1137.4, 1751, 373.3, 32.2)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "98\u00b0F (37\u00b0C)/5 min.",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(517, 1796.6, 564, 45.7)",
+            "table-semantic-label": "LABEL_CONDITION",
+            "table-header": "Yes",
+            "content": "20 gram mass",
+            "Relationships": {
+                "right": [
+                    5
+                ],
+                "up": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(1132, 1793.9, 381.3, 40.3)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "230\u00b0F (110\u00b0C)/3 min.",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "up": [
+                    3
+                ]
+            }
+        }
+    ]
+}

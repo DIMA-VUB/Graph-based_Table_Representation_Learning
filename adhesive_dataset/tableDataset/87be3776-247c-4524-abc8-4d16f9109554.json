@@ -1,1 +1,321 @@
-"{\n    \"id-table\": \"87be3776-247c-4524-abc8-4d16f9109554\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(191.9, 174.2, 1381.5, 1003.1)\",\n    \"PDF-name\": \"TDS Dow Betaseal 8000\",\n    \"Page-number\": \"2\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(225.9, 202.6, 329, 44.4)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(831.7, 208.1, 355.2, 44.4)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(225.9, 260.1, 334.2, 54.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(831.7, 268.2, 561.5, 41.8)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(225.9, 320.1, 344.7, 109.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    2\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(823.9, 320.4, 658.1, 107.1)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"up\": [\n                    3\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(228.5, 466.4, 352.5, 88.9)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    7\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(826.5, 466.7, 673.7, 88.8)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    6\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(220.7, 570.9, 360.3, 104.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    9\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(821.3, 576.4, 658, 115)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    8\n                ],\n                \"up\": [\n                    7\n                ],\n                \"down\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(212.8, 701.5, 389.1, 125.4)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    11\n                ],\n                \"up\": [\n                    8\n                ],\n                \"down\": [\n                    12\n                ]\n            }\n        },\n        {\n            \"id-entry\": 11,\n            \"entry-rect\": \"(821.3, 712.3, 678.9, 130.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    10\n                ],\n                \"up\": [\n                    9\n                ],\n                \"down\": [\n                    13\n                ]\n            }\n        },\n        {\n            \"id-entry\": 12,\n            \"entry-rect\": \"(212.8, 853, 383.9, 68)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    13\n                ],\n                \"up\": [\n                    10\n                ],\n                \"down\": [\n                    14\n                ]\n            }\n        },\n        {\n            \"id-entry\": 13,\n            \"entry-rect\": \"(810.8, 858.6, 679, 65.3)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    12\n                ],\n                \"up\": [\n                    11\n                ],\n                \"down\": [\n                    15\n                ]\n            }\n        },\n        {\n            \"id-entry\": 14,\n            \"entry-rect\": \"(210.2, 929.1, 381.3, 128)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    15\n                ],\n                \"up\": [\n                    12\n                ],\n                \"down\": [\n                    16\n                ]\n            }\n        },\n        {\n            \"id-entry\": 15,\n            \"entry-rect\": \"(810.8, 944.8, 684.2, 88.8)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    14\n                ],\n                \"up\": [\n                    13\n                ],\n                \"down\": [\n                    17\n                ]\n            }\n        },\n        {\n            \"id-entry\": 16,\n            \"entry-rect\": \"(220.7, 1085.8, 376, 88.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    17\n                ],\n                \"up\": [\n                    14\n                ]\n            }\n        },\n        {\n            \"id-entry\": 17,\n            \"entry-rect\": \"(800.4, 1091.1, 697.2, 75.7)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    16\n                ],\n                \"up\": [\n                    15\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "87be3776-247c-4524-abc8-4d16f9109554",
+    "language": "ENGLISH",
+    "table-rect": "(191.9, 174.2, 1381.5, 1003.1)",
+    "PDF-name": "TDS Dow Betaseal 8000",
+    "Page-number": "2",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(225.9, 202.6, 329, 44.4)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Abrasion resistance",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(831.7, 208.1, 355.2, 44.4)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Extremely high",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(225.9, 260.1, 334.2, 54.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Temperature stability",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(831.7, 268.2, 561.5, 41.8)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "-40 \u00b0C to 100\u00b0C, for short periods up to 140\u00b0C",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(225.9, 320.1, 344.7, 109.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Resistance to chemicals",
+            "Relationships": {
+                "right": [
+                    5
+                ],
+                "up": [
+                    2
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(823.9, 320.4, 658.1, 107.1)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Highly resistant to aqueous chemicals, petrol, alcohol and mineral oils.  Conditionally resistant to esters, ketones, aromatics and chlorinated hydrocarbons",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "up": [
+                    3
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(228.5, 466.4, 352.5, 88.9)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Bonding surface preparation",
+            "Relationships": {
+                "right": [
+                    7
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(826.5, 466.7, 673.7, 88.8)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "All bonding surfaces must be free of dirt, dust, water, oil and grease. In general surfaces should be primed. Verify compatibility or consult our technical service department.",
+            "Relationships": {
+                "left": [
+                    6
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(220.7, 570.9, 360.3, 104.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Processing equipment",
+            "Relationships": {
+                "right": [
+                    9
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(821.3, 576.4, 658, 115)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Cartridges: hand mechanical piston Drums, pails: commercial heated pumping system with connection to automatic applicator, if required.",
+            "Relationships": {
+                "left": [
+                    8
+                ],
+                "up": [
+                    7
+                ],
+                "down": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(212.8, 701.5, 389.1, 125.4)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Cleaning",
+            "Relationships": {
+                "right": [
+                    11
+                ],
+                "up": [
+                    8
+                ],
+                "down": [
+                    12
+                ]
+            }
+        },
+        {
+            "id-entry": 11,
+            "entry-rect": "(821.3, 712.3, 678.9, 130.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Uncured BETASEAL 8000 residues can easily be removed with BETACLEAN 3000 or BETACLEAN 3500. Hardened BETASEAL 8000 residues can only be removed mechanically. Immerse equipment in BETACLEAN 3000.",
+            "Relationships": {
+                "left": [
+                    10
+                ],
+                "up": [
+                    9
+                ],
+                "down": [
+                    13
+                ]
+            }
+        },
+        {
+            "id-entry": 12,
+            "entry-rect": "(212.8, 853, 383.9, 68)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Shelf life",
+            "Relationships": {
+                "right": [
+                    13
+                ],
+                "up": [
+                    10
+                ],
+                "down": [
+                    14
+                ]
+            }
+        },
+        {
+            "id-entry": 13,
+            "entry-rect": "(810.8, 858.6, 679, 65.3)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "6 months at +5\u00b0C to +25\u00b0C in unopened containers. (See \"use before\" date printed on container).",
+            "Relationships": {
+                "left": [
+                    12
+                ],
+                "up": [
+                    11
+                ],
+                "down": [
+                    15
+                ]
+            }
+        },
+        {
+            "id-entry": 14,
+            "entry-rect": "(210.2, 929.1, 381.3, 128)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Containers",
+            "Relationships": {
+                "right": [
+                    15
+                ],
+                "up": [
+                    12
+                ],
+                "down": [
+                    16
+                ]
+            }
+        },
+        {
+            "id-entry": 15,
+            "entry-rect": "(810.8, 944.8, 684.2, 88.8)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "300 ml cartridges, cardboard packs of 12 Pails: 22 litres Drums: 200 litres",
+            "Relationships": {
+                "left": [
+                    14
+                ],
+                "up": [
+                    13
+                ],
+                "down": [
+                    17
+                ]
+            }
+        },
+        {
+            "id-entry": 16,
+            "entry-rect": "(220.7, 1085.8, 376, 88.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Protection measures",
+            "Relationships": {
+                "right": [
+                    17
+                ],
+                "up": [
+                    14
+                ]
+            }
+        },
+        {
+            "id-entry": 17,
+            "entry-rect": "(800.4, 1091.1, 697.2, 75.7)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "See health and safety data sheet.",
+            "Relationships": {
+                "left": [
+                    16
+                ],
+                "up": [
+                    15
+                ]
+            }
+        }
+    ]
+}

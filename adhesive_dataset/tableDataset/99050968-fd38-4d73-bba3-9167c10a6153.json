@@ -1,1 +1,105 @@
-"{\n    \"id-table\": \"99050968-fd38-4d73-bba3-9167c10a6153\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(412.2, 1147.1, 1023.3, 212.1)\",\n    \"PDF-name\": \"TDS_3M DP6310NS\",\n    \"Page-number\": \"4\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(439.1, 1169.2, 231, 134.3)\",\n            \"table-semantic-label\": \"DESIGNATION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(678.1, 1163.8, 349.2, 131.6)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"right\": [\n                    3\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(428.4, 1303.5, 247, 26.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    4\n                ],\n                \"up\": [\n                    0\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1032.6, 1166.5, 343.8, 131.6)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    1\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(686.2, 1303.5, 338.4, 34.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    1\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(1040.7, 1298.1, 335.7, 37.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"up\": [\n                    3\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "99050968-fd38-4d73-bba3-9167c10a6153",
+    "language": "ENGLISH",
+    "table-rect": "(412.2, 1147.1, 1023.3, 212.1)",
+    "PDF-name": "TDS_3M DP6310NS",
+    "Page-number": "4",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(439.1, 1169.2, 231, 134.3)",
+            "table-semantic-label": "DESIGNATION",
+            "table-header": "Yes",
+            "content": "Substrate",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(678.1, 1163.8, 349.2, 131.6)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "3M\u2122 Scotch-Weld Multi-Material Composite Urethane  Adhesive DP6310NS.",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "right": [
+                    3
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(428.4, 1303.5, 247, 26.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Etched Aluminum",
+            "Relationships": {
+                "right": [
+                    4
+                ],
+                "up": [
+                    0
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1032.6, 1166.5, 343.8, 131.6)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "3M\u2122 Scotch-Weld Multi-Material Composite Urethane  Adhesive DP6330NS.",
+            "Relationships": {
+                "left": [
+                    1
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(686.2, 1303.5, 338.4, 34.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "20 Ibs/inch width",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "right": [
+                    5
+                ],
+                "up": [
+                    1
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(1040.7, 1298.1, 335.7, 37.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "20 Ibs/inch width",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "up": [
+                    3
+                ]
+            }
+        }
+    ]
+}

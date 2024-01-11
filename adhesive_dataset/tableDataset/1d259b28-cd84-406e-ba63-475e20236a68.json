@@ -1,1 +1,192 @@
-"{\n    \"id-table\": \"1d259b28-cd84-406e-ba63-475e20236a68\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(455.2, 958.6, 1090.4, 692.7)\",\n    \"PDF-name\": \"TDS_3M DP105\",\n    \"Page-number\": \"2\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(484.8, 1018.2, 652.6, 61.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"up\": [\n                    2\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1156.2, 1018.2, 319.6, 69.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(484.8, 963.9, 649.9, 40.3)\",\n            \"table-semantic-label\": \"TABLE_CAPTION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"down\": [\n                    0\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(490.1, 1101.5, 641.9, 115.4)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    4\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(1153.5, 1109.5, 333, 110.1)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    3\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(498.2, 1246.5, 628.4, 72.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    6\n                ],\n                \"up\": [\n                    3\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(1156.2, 1246.5, 314.2, 80.5)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    5\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(487.4, 1345.8, 639.2, 142.3)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    8\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(1150.8, 1356.6, 330.3, 131.5)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    7\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(484.8, 1498.9, 628.4, 131.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    10\n                ],\n                \"up\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(1156.2, 1525.7, 319.6, 99.4)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    9\n                ],\n                \"up\": [\n                    8\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "1d259b28-cd84-406e-ba63-475e20236a68",
+    "language": "ENGLISH",
+    "table-rect": "(455.2, 958.6, 1090.4, 692.7)",
+    "PDF-name": "TDS_3M DP105",
+    "Page-number": "2",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(484.8, 1018.2, 652.6, 61.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Weight Loss by Thermal Gravimetric Analysis (TGA)\u2019",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "up": [
+                    2
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1156.2, 1018.2, 319.6, 69.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "1% @ 117\u00b0C (243\u00b0F) 5% @ 289\u00b0C (552\u00b0F)",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(484.8, 963.9, 649.9, 40.3)",
+            "table-semantic-label": "TABLE_CAPTION",
+            "table-header": "Yes",
+            "content": "Thermal",
+            "Relationships": {
+                "down": [
+                    0
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(490.1, 1101.5, 641.9, 115.4)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Thermal Coefficient of Expansion (TCE) by TMA\u00ae (infiny x E-6 units/unit/\u00b0C)  Below Tg  Above Tg",
+            "Relationships": {
+                "right": [
+                    4
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(1153.5, 1109.5, 333, 110.1)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "181 (40-140\u00b0C range)",
+            "Relationships": {
+                "left": [
+                    3
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(498.2, 1246.5, 628.4, 72.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Glass Transition Temperature (Tg) by DSC\u201d Onset Mid-Point",
+            "Relationships": {
+                "right": [
+                    6
+                ],
+                "up": [
+                    3
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(1156.2, 1246.5, 314.2, 80.5)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "8\u00b0C (46\u00b0F) 15\u00b0C (59\u00b0F)",
+            "Relationships": {
+                "left": [
+                    5
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(487.4, 1345.8, 639.2, 142.3)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Thermal Conductivity\u2019  (@ 110\u00b0F on .250\" samples) BTU-ft./ft.2 - hr.Cal./sec -cm-\u00b0CWatt/m-\u00b0C",
+            "Relationships": {
+                "right": [
+                    8
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(1150.8, 1356.6, 330.3, 131.5)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "085 .35 x 10^(-3) .147",
+            "Relationships": {
+                "left": [
+                    7
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(484.8, 1498.9, 628.4, 131.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Thermal Shock Resistance\" Potted Washer Olyphant Test (3M/AdhD Test Method C-3174+100\u00b0C [air] to -50\u00b0C[liquid])",
+            "Relationships": {
+                "right": [
+                    10
+                ],
+                "up": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(1156.2, 1525.7, 319.6, 99.4)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Pass 5 cycles without cracking",
+            "Relationships": {
+                "left": [
+                    9
+                ],
+                "up": [
+                    8
+                ]
+            }
+        }
+    ]
+}

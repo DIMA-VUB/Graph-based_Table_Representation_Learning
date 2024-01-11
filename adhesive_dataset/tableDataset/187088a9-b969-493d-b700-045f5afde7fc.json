@@ -1,1 +1,192 @@
-"{\n    \"id-table\": \"187088a9-b969-493d-b700-045f5afde7fc\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(479.4, 536.4, 1205.8, 284.6)\",\n    \"PDF-name\": \"TDS_3M DP190 Gray\",\n    \"Page-number\": \"5\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(511.6, 559.4, 601.6, 69.8)\",\n            \"table-semantic-label\": \"DESIGNATION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1132, 564.8, 443.1, 59)\",\n            \"table-semantic-label\": \"LABEL_CONDITION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(511.6, 637.3, 590.8, 34.9)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1132, 639.9, 80.6, 24.2)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(487.4, 677.5, 609.7, 16.1)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"up\": [\n                    2\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(506.2, 709.8, 596.2, 21.4)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    6\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(1137.4, 704.4, 131.6, 24.2)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    5\n                ],\n                \"up\": [\n                    3\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(511.6, 744.7, 598.9, 21.4)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    8\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(1113.2, 744.7, 435.1, 18.8)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    7\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(525, 776.9, 585.5, 24.1)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    10\n                ],\n                \"up\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(1132, 784.9, 255.1, 21.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    9\n                ],\n                \"up\": [\n                    8\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "187088a9-b969-493d-b700-045f5afde7fc",
+    "language": "ENGLISH",
+    "table-rect": "(479.4, 536.4, 1205.8, 284.6)",
+    "PDF-name": "TDS_3M DP190 Gray",
+    "Page-number": "5",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(511.6, 559.4, 601.6, 69.8)",
+            "table-semantic-label": "DESIGNATION",
+            "table-header": "Yes",
+            "content": "Adhesive*",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1132, 564.8, 443.1, 59)",
+            "table-semantic-label": "LABEL_CONDITION",
+            "table-header": "Yes",
+            "content": "1/4 in. Nozzle gms/minute",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(511.6, 637.3, 590.8, 34.9)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "3M\u2122 Scotch-weld Epoxy Adhesive",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1132, 639.9, 80.6, 24.2)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "112",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(487.4, 677.5, 609.7, 16.1)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "DP 190 Translucent",
+            "Relationships": {
+                "up": [
+                    2
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(506.2, 709.8, 596.2, 21.4)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "Scotch-weld Epoxy Adhesive DP190 Gray",
+            "Relationships": {
+                "right": [
+                    6
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(1137.4, 704.4, 131.6, 24.2)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "16.9",
+            "Relationships": {
+                "left": [
+                    5
+                ],
+                "up": [
+                    3
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(511.6, 744.7, 598.9, 21.4)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "Scotch-weld Epoxy Adhesive DP190 Gray",
+            "Relationships": {
+                "right": [
+                    8
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(1113.2, 744.7, 435.1, 18.8)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "21.5 (nozzle cut back 2 divisions)",
+            "Relationships": {
+                "left": [
+                    7
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(525, 776.9, 585.5, 24.1)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "Scotch-Weld epoxy adhesive DP190 100\u00b0F (38\u00b0C)",
+            "Relationships": {
+                "right": [
+                    10
+                ],
+                "up": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(1132, 784.9, 255.1, 21.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "41.1",
+            "Relationships": {
+                "left": [
+                    9
+                ],
+                "up": [
+                    8
+                ]
+            }
+        }
+    ]
+}

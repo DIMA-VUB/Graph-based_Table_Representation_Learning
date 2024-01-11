@@ -1,1 +1,63 @@
-"{\n    \"id-table\": \"7ccbf07f-196c-4433-89b4-3ec3052c65c9\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(855.3, 395.3, 745.9, 120.1)\",\n    \"PDF-name\": \"TDS_Henkel Loctite 3423 E\",\n    \"Page-number\": \"1\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(860.4, 408, 219.7, 33.3)\",\n            \"table-semantic-label\": \"LABEL_MIXED\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"down\": [\n                    1\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(863, 443.8, 298.8, 23)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(855.3, 471.9, 311.6, 25.6)\",\n            \"table-semantic-label\": \"LABEL_CONDITION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    1\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1294.7, 461.7, 178.8, 43.4)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "7ccbf07f-196c-4433-89b4-3ec3052c65c9",
+    "language": "ENGLISH",
+    "table-rect": "(855.3, 395.3, 745.9, 120.1)",
+    "PDF-name": "TDS_Henkel Loctite 3423 E",
+    "Page-number": "1",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(860.4, 408, 219.7, 33.3)",
+            "table-semantic-label": "LABEL_MIXED",
+            "table-header": "Yes",
+            "content": "Mixed Properties",
+            "Relationships": {
+                "down": [
+                    1
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(863, 443.8, 298.8, 23)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Pot Life @ 25 \u00b0C, minutes:",
+            "Relationships": {
+                "up": [
+                    0
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(855.3, 471.9, 311.6, 25.6)",
+            "table-semantic-label": "LABEL_CONDITION",
+            "table-header": "Yes",
+            "content": "200 g mass",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    1
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1294.7, 461.7, 178.8, 43.4)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "30 to 60",
+            "Relationships": {
+                "left": [
+                    2
+                ]
+            }
+        }
+    ]
+}

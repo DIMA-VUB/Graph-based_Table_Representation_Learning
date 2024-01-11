@@ -1,1 +1,276 @@
-"{\n    \"id-table\": \"65b1116d-48c9-40ae-81a9-eddc9461e832\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(369.3, 1671.6, 1184.3, 327.6)\",\n    \"PDF-name\": \"TDS_3M DP6310NS\",\n    \"Page-number\": \"3\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(1043.4, 1924, 373.3, 34.9)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    1\n                ],\n                \"up\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(678.1, 1929.4, 359.9, 29.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    9\n                ],\n                \"right\": [\n                    0\n                ],\n                \"up\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(1048.7, 1889.1, 362.6, 29.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    3\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    0\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(675.4, 1889.1, 368, 29.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    10\n                ],\n                \"right\": [\n                    2\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    1\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(1046.1, 1856.9, 362.5, 29.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    5\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(678.1, 1859.6, 354.5, 29.5)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    11\n                ],\n                \"right\": [\n                    4\n                ],\n                \"up\": [\n                    7\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(1051.4, 1822, 351.8, 32.2)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    7\n                ],\n                \"up\": [\n                    8\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(686.2, 1832.7, 354.5, 18.8)\",\n            \"table-semantic-label\": \"VALUE_CONDITION\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    12\n                ],\n                \"right\": [\n                    6\n                ],\n                \"up\": [\n                    13\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(1059.5, 1703.8, 349.1, 115.5)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    13\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(417.6, 1934.7, 255.1, 29.6)\",\n            \"table-semantic-label\": \"LABEL_METHOD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"up\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(423, 1897.2, 244.4, 26.8)\",\n            \"table-semantic-label\": \"LABEL_METHOD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    11\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 11,\n            \"entry-rect\": \"(425.7, 1864.9, 241.7, 29.6)\",\n            \"table-semantic-label\": \"LABEL_METHOD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    12\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 12,\n            \"entry-rect\": \"(425.7, 1832.7, 247, 24.2)\",\n            \"table-semantic-label\": \"LABEL_METHOD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    7\n                ],\n                \"up\": [\n                    14\n                ],\n                \"down\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 13,\n            \"entry-rect\": \"(678.1, 1701.1, 370.6, 118.2)\",\n            \"table-semantic-label\": \"LABEL_ADHESIVE\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    14\n                ],\n                \"right\": [\n                    8\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 14,\n            \"entry-rect\": \"(431, 1706.5, 244.4, 115.5)\",\n            \"table-semantic-label\": \"DESIGNATION\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    13\n                ],\n                \"down\": [\n                    12\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "65b1116d-48c9-40ae-81a9-eddc9461e832",
+    "language": "ENGLISH",
+    "table-rect": "(369.3, 1671.6, 1184.3, 327.6)",
+    "PDF-name": "TDS_3M DP6310NS",
+    "Page-number": "3",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(1043.4, 1924, 373.3, 34.9)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "1000",
+            "Relationships": {
+                "left": [
+                    1
+                ],
+                "up": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(678.1, 1929.4, 359.9, 29.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "900",
+            "Relationships": {
+                "left": [
+                    9
+                ],
+                "right": [
+                    0
+                ],
+                "up": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(1048.7, 1889.1, 362.6, 29.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "1700",
+            "Relationships": {
+                "left": [
+                    3
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    0
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(675.4, 1889.1, 368, 29.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "1700",
+            "Relationships": {
+                "left": [
+                    10
+                ],
+                "right": [
+                    2
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    1
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(1046.1, 1856.9, 362.5, 29.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "3600",
+            "Relationships": {
+                "left": [
+                    5
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(678.1, 1859.6, 354.5, 29.5)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "3600",
+            "Relationships": {
+                "left": [
+                    11
+                ],
+                "right": [
+                    4
+                ],
+                "up": [
+                    7
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(1051.4, 1822, 351.8, 32.2)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "3600",
+            "Relationships": {
+                "left": [
+                    7
+                ],
+                "up": [
+                    8
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(686.2, 1832.7, 354.5, 18.8)",
+            "table-semantic-label": "VALUE_CONDITION",
+            "table-header": "No",
+            "content": "3500",
+            "Relationships": {
+                "left": [
+                    12
+                ],
+                "right": [
+                    6
+                ],
+                "up": [
+                    13
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(1059.5, 1703.8, 349.1, 115.5)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "3M\u2122 Scotch-Weld Multi-Material Composite Urethane  Adhesive DP6330NS",
+            "Relationships": {
+                "left": [
+                    13
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(417.6, 1934.7, 255.1, 29.6)",
+            "table-semantic-label": "LABEL_METHOD",
+            "table-header": "Yes",
+            "content": "180\u00b0F(82\u00b0)",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "up": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(423, 1897.2, 244.4, 26.8)",
+            "table-semantic-label": "LABEL_METHOD",
+            "table-header": "Yes",
+            "content": " 120\u00b0F (49\u00b0C)",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    11
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 11,
+            "entry-rect": "(425.7, 1864.9, 241.7, 29.6)",
+            "table-semantic-label": "LABEL_METHOD",
+            "table-header": "Yes",
+            "content": "73\u00b0F (23\u00b0C)",
+            "Relationships": {
+                "right": [
+                    5
+                ],
+                "up": [
+                    12
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 12,
+            "entry-rect": "(425.7, 1832.7, 247, 24.2)",
+            "table-semantic-label": "LABEL_METHOD",
+            "table-header": "Yes",
+            "content": "-40\u00b0F(-40\u00b0C)",
+            "Relationships": {
+                "right": [
+                    7
+                ],
+                "up": [
+                    14
+                ],
+                "down": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 13,
+            "entry-rect": "(678.1, 1701.1, 370.6, 118.2)",
+            "table-semantic-label": "LABEL_ADHESIVE",
+            "table-header": "Yes",
+            "content": "3M\u2122 Scotch-Weld Multi-Material Composite Urethane  Adhesive DP6310NS.",
+            "Relationships": {
+                "left": [
+                    14
+                ],
+                "right": [
+                    8
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 14,
+            "entry-rect": "(431, 1706.5, 244.4, 115.5)",
+            "table-semantic-label": "DESIGNATION",
+            "table-header": "Yes",
+            "content": "Temperature",
+            "Relationships": {
+                "right": [
+                    13
+                ],
+                "down": [
+                    12
+                ]
+            }
+        }
+    ]
+}

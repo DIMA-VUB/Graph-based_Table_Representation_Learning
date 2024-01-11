@@ -1,1 +1,437 @@
-"{\n    \"id-table\": \"6156e702-8298-46ac-a0e7-1a6cfc872474\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(126.7, 889.7, 1479, 655.7)\",\n    \"PDF-name\": \"TDS Axson Adekit A 140 BK\",\n    \"Page-number\": \"2\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(160.7, 911.2, 1413.6, 36.6)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"down\": [\n                    1,\n                    18,\n                    20\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(1148.4, 950.4, 169.8, 31.3)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    18\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    21\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(160.7, 1471.4, 376.3, 54.9)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(1143.2, 1472.6, 177.6, 52.2)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(160.7, 1416.6, 371, 52.2)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(1145.8, 1423.5, 175, 44.4)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    7\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(158.1, 1353.9, 378.9, 54.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    7\n                ],\n                \"up\": [\n                    8\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(1148.4, 1355.6, 172.4, 54.9)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    6\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    9\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(163.3, 1296.4, 373.7, 49.6)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    9\n                ],\n                \"up\": [\n                    10\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(1143.2, 1300.7, 177.6, 52.3)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    8\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    11\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(158.1, 1236.3, 378.9, 52.2)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    11\n                ],\n                \"up\": [\n                    12\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 11,\n            \"entry-rect\": \"(1148.4, 1243.3, 172.4, 49.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    10\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    13\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 12,\n            \"entry-rect\": \"(158.1, 1173.6, 378.9, 57.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    13\n                ],\n                \"up\": [\n                    14\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 13,\n            \"entry-rect\": \"(1145.8, 1178, 175, 60)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    12\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    15\n                ],\n                \"down\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 14,\n            \"entry-rect\": \"(158.1, 1110.9, 378.9, 54.9)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    15\n                ],\n                \"up\": [\n                    16\n                ],\n                \"down\": [\n                    12\n                ]\n            }\n        },\n        {\n            \"id-entry\": 15,\n            \"entry-rect\": \"(1140.6, 1115.3, 185.5, 57.4)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    14\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    17\n                ],\n                \"down\": [\n                    13\n                ]\n            }\n        },\n        {\n            \"id-entry\": 16,\n            \"entry-rect\": \"(158.1, 1048.2, 381.5, 60.1)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    17\n                ],\n                \"up\": [\n                    18\n                ],\n                \"down\": [\n                    14\n                ]\n            }\n        },\n        {\n            \"id-entry\": 17,\n            \"entry-rect\": \"(1140.6, 1060.4, 180.2, 49.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    16\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    19\n                ],\n                \"down\": [\n                    15\n                ]\n            }\n        },\n        {\n            \"id-entry\": 18,\n            \"entry-rect\": \"(158.1, 951.5, 378.9, 91.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    19,\n                    1,\n                    21\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    16\n                ]\n            }\n        },\n        {\n            \"id-entry\": 19,\n            \"entry-rect\": \"(1137.9, 1021.2, 180.3, 31.4)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    18\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    21\n                ],\n                \"down\": [\n                    17\n                ]\n            }\n        },\n        {\n            \"id-entry\": 20,\n            \"entry-rect\": \"(1422.8, 951.8, 151.5, 577.4)\",\n            \"table-semantic-label\": \"VALUE_METHOD\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    1,\n                    21,\n                    19,\n                    17,\n                    15,\n                    13,\n                    11,\n                    9,\n                    7,\n                    5,\n                    3\n                ],\n                \"up\": [\n                    0\n                ]\n            }\n        },\n        {\n            \"id-entry\": 21,\n            \"entry-rect\": \"(1143.2, 989.6, 177.6, 23.5)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    18\n                ],\n                \"right\": [\n                    20\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    19\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "6156e702-8298-46ac-a0e7-1a6cfc872474",
+    "language": "ENGLISH",
+    "table-rect": "(126.7, 889.7, 1479, 655.7)",
+    "PDF-name": "TDS Axson Adekit A 140 BK",
+    "Page-number": "2",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(160.7, 911.2, 1413.6, 36.6)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Lap Shear Strength at 23\u00b0C",
+            "Relationships": {
+                "down": [
+                    1,
+                    18,
+                    20
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(1148.4, 950.4, 169.8, 31.3)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "20 CF",
+            "Relationships": {
+                "left": [
+                    18
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    21
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(160.7, 1471.4, 376.3, 54.9)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "PAGE  Sanded + Isopropanol",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(1143.2, 1472.6, 177.6, 52.2)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "4.5 SF/AF",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(160.7, 1416.6, 371, 52.2)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "PMMA  Sanded + Isopro.+Plastic primer*",
+            "Relationships": {
+                "right": [
+                    5
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(1145.8, 1423.5, 175, 44.4)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "3 AF",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    7
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(158.1, 1353.9, 378.9, 54.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Pvc  Sanded + Isopropanol",
+            "Relationships": {
+                "right": [
+                    7
+                ],
+                "up": [
+                    8
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(1148.4, 1355.6, 172.4, 54.9)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "5 SF",
+            "Relationships": {
+                "left": [
+                    6
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    9
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(163.3, 1296.4, 373.7, 49.6)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "PC Sanded + Isopro + Plastic primer",
+            "Relationships": {
+                "right": [
+                    9
+                ],
+                "up": [
+                    10
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(1143.2, 1300.7, 177.6, 52.3)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "2 AF",
+            "Relationships": {
+                "left": [
+                    8
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    11
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(158.1, 1236.3, 378.9, 52.2)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "ABS  Sanded + Isonronanol",
+            "Relationships": {
+                "right": [
+                    11
+                ],
+                "up": [
+                    12
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 11,
+            "entry-rect": "(1148.4, 1243.3, 172.4, 49.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "5 SF",
+            "Relationships": {
+                "left": [
+                    10
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    13
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 12,
+            "entry-rect": "(158.1, 1173.6, 378.9, 57.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Electro galvanised Steel Acetone wipe",
+            "Relationships": {
+                "right": [
+                    13
+                ],
+                "up": [
+                    14
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 13,
+            "entry-rect": "(1145.8, 1178, 175, 60)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "20 CF",
+            "Relationships": {
+                "left": [
+                    12
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    15
+                ],
+                "down": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 14,
+            "entry-rect": "(158.1, 1110.9, 378.9, 54.9)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Electro galvanised Steel sandblasted",
+            "Relationships": {
+                "right": [
+                    15
+                ],
+                "up": [
+                    16
+                ],
+                "down": [
+                    12
+                ]
+            }
+        },
+        {
+            "id-entry": 15,
+            "entry-rect": "(1140.6, 1115.3, 185.5, 57.4)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "21 CF",
+            "Relationships": {
+                "left": [
+                    14
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    17
+                ],
+                "down": [
+                    13
+                ]
+            }
+        },
+        {
+            "id-entry": 16,
+            "entry-rect": "(158.1, 1048.2, 381.5, 60.1)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Stainless Steel 304 sandblasted",
+            "Relationships": {
+                "right": [
+                    17
+                ],
+                "up": [
+                    18
+                ],
+                "down": [
+                    14
+                ]
+            }
+        },
+        {
+            "id-entry": 17,
+            "entry-rect": "(1140.6, 1060.4, 180.2, 49.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "23 CF",
+            "Relationships": {
+                "left": [
+                    16
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    19
+                ],
+                "down": [
+                    15
+                ]
+            }
+        },
+        {
+            "id-entry": 18,
+            "entry-rect": "(158.1, 951.5, 378.9, 91.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Aluminium 2017A sandblasted",
+            "Relationships": {
+                "right": [
+                    19,
+                    1,
+                    21
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    16
+                ]
+            }
+        },
+        {
+            "id-entry": 19,
+            "entry-rect": "(1137.9, 1021.2, 180.3, 31.4)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "16 CF",
+            "Relationships": {
+                "left": [
+                    18
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    21
+                ],
+                "down": [
+                    17
+                ]
+            }
+        },
+        {
+            "id-entry": 20,
+            "entry-rect": "(1422.8, 951.8, 151.5, 577.4)",
+            "table-semantic-label": "VALUE_METHOD",
+            "table-header": "No",
+            "content": "LT-006-B",
+            "Relationships": {
+                "left": [
+                    1,
+                    21,
+                    19,
+                    17,
+                    15,
+                    13,
+                    11,
+                    9,
+                    7,
+                    5,
+                    3
+                ],
+                "up": [
+                    0
+                ]
+            }
+        },
+        {
+            "id-entry": 21,
+            "entry-rect": "(1143.2, 989.6, 177.6, 23.5)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "16 CF",
+            "Relationships": {
+                "left": [
+                    18
+                ],
+                "right": [
+                    20
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    19
+                ]
+            }
+        }
+    ]
+}

@@ -1,1 +1,213 @@
-"{\n    \"id-table\": \"b829a7dd-a4d1-48eb-9c80-ed51528d8b6e\",\n    \"language\": \"ENGLISH\",\n    \"table-rect\": \"(81.9, 341.6, 1581.8, 1283.5)\",\n    \"PDF-name\": \"TDS_3M DP6310NS\",\n    \"Page-number\": \"6\",\n    \"Cells\": [\n        {\n            \"id-entry\": 0,\n            \"entry-rect\": \"(90, 357.7, 319.6, 85.9)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    1\n                ],\n                \"down\": [\n                    2\n                ]\n            }\n        },\n        {\n            \"id-entry\": 1,\n            \"entry-rect\": \"(463.3, 364.6, 999, 102)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    0\n                ],\n                \"down\": [\n                    3\n                ]\n            }\n        },\n        {\n            \"id-entry\": 2,\n            \"entry-rect\": \"(103.4, 518.8, 319.6, 120.8)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    3\n                ],\n                \"up\": [\n                    0\n                ],\n                \"down\": [\n                    4\n                ]\n            }\n        },\n        {\n            \"id-entry\": 3,\n            \"entry-rect\": \"(471.3, 523, 991, 123.5)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    2\n                ],\n                \"up\": [\n                    1\n                ],\n                \"down\": [\n                    5\n                ]\n            }\n        },\n        {\n            \"id-entry\": 4,\n            \"entry-rect\": \"(106.1, 688, 311.5, 118.1)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    5\n                ],\n                \"up\": [\n                    2\n                ],\n                \"down\": [\n                    6\n                ]\n            }\n        },\n        {\n            \"id-entry\": 5,\n            \"entry-rect\": \"(455.2, 697.5, 996.4, 96.7)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    4\n                ],\n                \"up\": [\n                    3\n                ],\n                \"down\": [\n                    7\n                ]\n            }\n        },\n        {\n            \"id-entry\": 6,\n            \"entry-rect\": \"(103.4, 873.2, 300.8, 158.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    7\n                ],\n                \"up\": [\n                    4\n                ],\n                \"down\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 7,\n            \"entry-rect\": \"(460.6, 882.8, 953.4, 147.7)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    6\n                ],\n                \"up\": [\n                    5\n                ],\n                \"down\": [\n                    9\n                ]\n            }\n        },\n        {\n            \"id-entry\": 8,\n            \"entry-rect\": \"(103.4, 1096.1, 279.3, 196)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    9\n                ],\n                \"up\": [\n                    6\n                ],\n                \"down\": [\n                    10\n                ]\n            }\n        },\n        {\n            \"id-entry\": 9,\n            \"entry-rect\": \"(463.3, 1096.7, 942.6, 190.6)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    8\n                ],\n                \"up\": [\n                    7\n                ],\n                \"down\": [\n                    11\n                ]\n            }\n        },\n        {\n            \"id-entry\": 10,\n            \"entry-rect\": \"(92.7, 1362.5, 279.3, 217.5)\",\n            \"table-semantic-label\": \"KEYWORD\",\n            \"table-header\": \"Yes\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"right\": [\n                    11\n                ],\n                \"up\": [\n                    8\n                ]\n            }\n        },\n        {\n            \"id-entry\": 11,\n            \"entry-rect\": \"(455.2, 1375.7, 983, 225.5)\",\n            \"table-semantic-label\": \"VALUE_MIXED\",\n            \"table-header\": \"No\",\n            \"content\": \" \",\n            \"Relationships\": {\n                \"left\": [\n                    10\n                ],\n                \"up\": [\n                    9\n                ]\n            }\n        }\n    ]\n}"
+{
+    "id-table": "b829a7dd-a4d1-48eb-9c80-ed51528d8b6e",
+    "language": "ENGLISH",
+    "table-rect": "(81.9, 341.6, 1581.8, 1283.5)",
+    "PDF-name": "TDS_3M DP6310NS",
+    "Page-number": "6",
+    "Cells": [
+        {
+            "id-entry": 0,
+            "entry-rect": "(90, 357.7, 319.6, 85.9)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Storage",
+            "Relationships": {
+                "right": [
+                    1
+                ],
+                "down": [
+                    2
+                ]
+            }
+        },
+        {
+            "id-entry": 1,
+            "entry-rect": "(463.3, 364.6, 999, 102)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Store product at at 73\u00b0F (21\u00b0C). Do not freeze. Allow product to reach room temperature prior to use.",
+            "Relationships": {
+                "left": [
+                    0
+                ],
+                "down": [
+                    3
+                ]
+            }
+        },
+        {
+            "id-entry": 2,
+            "entry-rect": "(103.4, 518.8, 319.6, 120.8)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Shelf Life",
+            "Relationships": {
+                "right": [
+                    3
+                ],
+                "up": [
+                    0
+                ],
+                "down": [
+                    4
+                ]
+            }
+        },
+        {
+            "id-entry": 3,
+            "entry-rect": "(471.3, 523, 991, 123.5)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "3M\u2122 Scotch-Weld Multi-Material Composite Urethane  Adhesive DP6310NS and DP6330NS have a shelf life of 12 months from date of manufacture in unopened, origina containers kept at recommended storage conditions.",
+            "Relationships": {
+                "left": [
+                    2
+                ],
+                "up": [
+                    1
+                ],
+                "down": [
+                    5
+                ]
+            }
+        },
+        {
+            "id-entry": 4,
+            "entry-rect": "(106.1, 688, 311.5, 118.1)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Precautionary Information",
+            "Relationships": {
+                "right": [
+                    5
+                ],
+                "up": [
+                    2
+                ],
+                "down": [
+                    6
+                ]
+            }
+        },
+        {
+            "id-entry": 5,
+            "entry-rect": "(455.2, 697.5, 996.4, 96.7)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Refer to Product Label and Material Safety Data Sheet for health and safety information before using this product. For additional health and safety information, call 1-800-364-3577 or 651-737",
+            "Relationships": {
+                "left": [
+                    4
+                ],
+                "up": [
+                    3
+                ],
+                "down": [
+                    7
+                ]
+            }
+        },
+        {
+            "id-entry": 6,
+            "entry-rect": "(103.4, 873.2, 300.8, 158.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "For Additional Information",
+            "Relationships": {
+                "right": [
+                    7
+                ],
+                "up": [
+                    4
+                ],
+                "down": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 7,
+            "entry-rect": "(460.6, 882.8, 953.4, 147.7)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "To request additional product information or to arrange for sales assistance, call toll free 1-800-362or visit www.3M.com/compositebonding. Address correspondence to 3M Industrial Adhesives and Tapes Division, Building 21-1 W-10, 900 Bush Avenue, St. Paul, MN 55144-1000. Our fax number is 651-7784244. In Canada, phone: 1-800-364-3577. In Puerto Rico, phone: 1-787-75052-70-04",
+            "Relationships": {
+                "left": [
+                    6
+                ],
+                "up": [
+                    5
+                ],
+                "down": [
+                    9
+                ]
+            }
+        },
+        {
+            "id-entry": 8,
+            "entry-rect": "(103.4, 1096.1, 279.3, 196)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Product Use",
+            "Relationships": {
+                "right": [
+                    9
+                ],
+                "up": [
+                    6
+                ],
+                "down": [
+                    10
+                ]
+            }
+        },
+        {
+            "id-entry": 9,
+            "entry-rect": "(463.3, 1096.7, 942.6, 190.6)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "All statements, technical information and recommendations contained in this document are based upon tests or experience that 3M believes are reliable. However, many factors beyond 3M\u2019s control can affect the use and performance of a 3M product in a particular application, including the conditions under whic! the product is used and the time and environmental conditions in which the product is expected to perform. Since these factors are uniquely within the user\u2019s knowledge and control, it is essential that the user evaluate the 3M product to determine whether it is fit for a particular purpose and suitable for the user\u2019s method of application.",
+            "Relationships": {
+                "left": [
+                    8
+                ],
+                "up": [
+                    7
+                ],
+                "down": [
+                    11
+                ]
+            }
+        },
+        {
+            "id-entry": 10,
+            "entry-rect": "(92.7, 1362.5, 279.3, 217.5)",
+            "table-semantic-label": "KEYWORD",
+            "table-header": "Yes",
+            "content": "Warranty and Limited Remedy",
+            "Relationships": {
+                "right": [
+                    11
+                ],
+                "up": [
+                    8
+                ]
+            }
+        },
+        {
+            "id-entry": 11,
+            "entry-rect": "(455.2, 1375.7, 983, 225.5)",
+            "table-semantic-label": "VALUE_MIXED",
+            "table-header": "No",
+            "content": "Unless stated otherwise in 3M\u2019s product literature, packaging inserts or product packaging for individual products, 3M warrants that each 3M product meets the applicable specifications at the time 3M ships the product. Individual products may have additional or different warranties as stated on product literature, package inserts or product packages. 3M MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY IMPLIED WARRANTY ARISING OUT OF A COURSE OF DEALING, CUSTOM OR USAGE OF TRADE. User i is responsible for determining whether the 3M Product i is fit for a particular purpose \u00e9 and suitable for",
+            "Relationships": {
+                "left": [
+                    10
+                ],
+                "up": [
+                    9
+                ]
+            }
+        }
+    ]
+}
